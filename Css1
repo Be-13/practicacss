@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estilos</title>
+    <style>
+        .C1{
+            color: blue;
+            background-color: silver;
+            text-align: center;
+        }
+        .C2{
+            text-align: right;
+           color: blue;
+        }
+        .C3{
+            color: red;
+        }
+        .C4{
+            text-align: center;
+            color: blue;
+        }
+
+    </style>
+        
+</head>
+<body bgcolor="#91FDFC">
+   
+    <div class="C4">
+        <p >Texto <span class="C3">centrado</span> </p>
+    </div>
+     <div class="C1">
+        <p>Texto centrado sobre fondo color plata</p>
+     </div>
+    <div class="C2">
+        <h3>Texto <span class="C3">alineado</span> a la derecha</h3>
+    </div>
+    <div class="C1">
+        <p>Otro texto centrado sobre fondo color plata </p>
+    </div>
+    </html>
+</body>
+
+
